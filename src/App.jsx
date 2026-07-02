@@ -52,7 +52,7 @@ function App() {
       {/* Hero Section */}
       <header className="relative overflow-hidden">
         <div className="absolute inset-0 -z-10">
-          <img src="/picture/IMG_20240301_124848.jpg" alt="" className="h-full w-full object-cover opacity-[0.10]" />
+          <img src="./picture/IMG_20240301_124848.jpg" alt="" className="h-full w-full object-cover opacity-[0.10]" />
           <div className="absolute inset-0 bg-gradient-to-b from-slate-950/20 via-slate-950/70 to-slate-950" />
         </div>
 
@@ -116,7 +116,7 @@ function App() {
               <div className="relative">
                 <div className="absolute -inset-6 rounded-full bg-gradient-to-r from-sky-500/20 via-violet-500/20 to-teal-500/20 blur-2xl" />
                 <img
-                  src="/picture/harish.png"
+                  src="./picture/harish.png"
                   alt="Profile"
                   className="relative w-40 h-40 md:w-56 md:h-56 rounded-full object-cover border border-white/10 shadow-2xl"
                 />
