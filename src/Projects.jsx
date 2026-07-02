@@ -7,19 +7,19 @@ const Projects = () => {
       description: 'An online store built with React and Node.js.',
       demoLink: 'https://gregarious-bombolone-4f674d.netlify.app',
       codeLink: 'https://github.com/Harish9712/footify',
-      image: '/picture/logo.png',
+      image: './picture/logo.png',
     },
     {
       name: 'Library Management System',
       description: 'Java based console application.',
       codeLink: 'https://github.com/Harish9712/Library_Management_system',
-      image: '/picture/console.png',
+      image: './picture/console.png',
     },
     {
       name: 'Pesticide recommendation system',
       description: 'Farmer can get the recommendation for the pesticide based on the crop and the disease.',
       codeLink: 'https://github.com/Harish9712/pesticide-recommendation',
-      image: '/picture/farmer.png',
+      image: './picture/farmer.png',
     },
   ];
 
@@ -27,7 +27,7 @@ const Projects = () => {
     <div className="max-w-6xl mx-auto">
       <div className="flex items-end justify-between gap-6 flex-wrap">
         <h2 className="section-title">Projects</h2>
-        <p className="section-subtitle">A few things I’ve built recently.</p>
+        <p className="section-subtitle">A few things I've built recently.</p>
       </div>
 
       <div className="mt-10 grid md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -65,4 +65,3 @@ const Projects = () => {
 };
 
 export default Projects;
-
