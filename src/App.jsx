@@ -116,7 +116,7 @@ function App() {
               <div className="relative">
                 <div className="absolute -inset-6 rounded-full bg-gradient-to-r from-sky-500/20 via-violet-500/20 to-teal-500/20 blur-2xl" />
                 <img
-                  src="/picture/Harish.png"
+                  src="/picture/harish.png"
                   alt="Profile"
                   className="relative w-40 h-40 md:w-56 md:h-56 rounded-full object-cover border border-white/10 shadow-2xl"
                 />
