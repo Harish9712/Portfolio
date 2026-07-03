@@ -79,7 +79,7 @@ function App() {
                 >
                   <span className="inline-flex items-center gap-2">
                     <Download className="w-5 h-5" />
-                    Download Resume
+                    Download
                   </span>
                 </button>
 
