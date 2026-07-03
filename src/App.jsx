@@ -154,7 +154,7 @@ function App() {
                 <School className="w-8 h-8 text-teal-300 mb-4" />
                 <h3 className="font-semibold text-slate-100 mb-1">College</h3>
                 <p className="text-slate-300 text-sm">Kpr Institute of Engineering and Technology</p>
-                <p className="text-slate-300 text-sm mt-2">B.Tech IT • CGPA: 7.85</p>
+                <p className="text-slate-300 text-sm mt-2">B.Tech IT • CGPA: 7.67</p>
               </a>
 
               <a
